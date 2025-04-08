@@ -28,6 +28,6 @@ Este projeto é uma ótima oportunidade para quem está aprendendo desenvolvimen
 
 <br>
 
-![Demonstração do Jogo da Velha](https://github.com/Martins-Guilherme/JogoDaVelha/blob/main/img/JogoDaVelha.png)
+![Demonstração do Jogo da Velha](https://github.com/Martins-Guilherme/JogoDaVelha/blob/main/img/Jogo.png)
 
 #javascript #html #css #frontend #webdev #jogodavelha #tic-tac-toe #opensource #jogo #ui #interativo
